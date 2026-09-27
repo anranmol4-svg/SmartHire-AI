@@ -1,0 +1,34 @@
+skill,category
+python,Programming Languages
+java,Programming Languages
+c++,Programming Languages
+sql,Databases
+machine learning,Machine Learning
+deep learning,Machine Learning
+tensorflow,Frameworks
+pytorch,Frameworks
+scikit-learn,Frameworks
+fastapi,Web Frameworks
+flask,Web Frameworks
+docker,DevOps
+kubernetes,DevOps
+aws,Cloud
+azure,Cloud
+git,Version Control
+github,Version Control
+linux,OS
+react,Frontend
+node.js,Backend
+mongodb,Databases
+mysql,Databases
+postgresql,Databases
+pandas,Data Libraries
+numpy,Data Libraries
+power bi,Analytics
+excel,Analytics
+data structures,CS Fundamentals
+algorithms,CS Fundamentals
+operating systems,CS Fundamentals
+dbms,CS Fundamentals
+computer networks,CS Fundamentals
+oop,CS Fundamentals
